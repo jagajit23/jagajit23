@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jagajit
 
-<!--
-**jagajit23/jagajit23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Learning AWS & DevOps
+- ☁️ Building Real-Time Cloud Projects
+- 📫 jagajit203@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- AWS | Terraform | Ansible | Jenkins
+- Linux | Git | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔹 L1 Project – File Upload to S3
+- 🔹 L2 Project – AWS Pipeline (S3 + Lambda + RDS)
+- 🔹 L3 Project – End-to-End Cloud Automation (S3 + Lambda + RDS + SNS + CloudWatch)
+
+## 🌍 Location
+India
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jagajit23&show_icons=true)
