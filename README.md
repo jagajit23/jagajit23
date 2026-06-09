@@ -1,46 +1,43 @@
-# 👋 Hi, I'm Jagajit
+# Hi 👋, I'm Jagajit B
 
-## 🚀 About Me
+## Junior DevOps & Cloud Engineer
 
-* 🌱 Learning **AWS & DevOps**
-* ☁️ Building **Real-Time Cloud Projects**
-* 🎯 Goal: Become a **Cloud / DevOps Engineer**
+Passionate about Cloud Computing, Infrastructure Automation, CI/CD, Docker, Kubernetes and AWS.
 
----
+### Skills
 
-## 🛠️ Skills
-
-* AWS (EC2, S3, Lambda, RDS, CodePipeline, CodeDeploy)
-* Terraform (Basics)
-* Linux
+* AWS (EC2, VPC, S3, IAM, ALB)
+* Terraform
+* Docker
+* Kubernetes
+* Jenkins
 * Git & GitHub
-* Python (Basics)
+* Linux
+* Shell Scripting
 
----
+### DevOps Projects
 
-## 📂 Projects
+#### Infrastructure Automation with Terraform on AWS
 
-### 🔹 L3 – CI/CD Pipeline
+* Created VPC, Subnets, EC2, Security Groups and ALB using Terraform.
+* Automated infrastructure deployment using Infrastructure as Code.
 
-👉 Automated deployment using AWS CodePipeline & CodeDeploy
-🔗 https://github.com/jagajit23/l3-CICD-pipeline-aws
+#### Automated File Upload Pipeline on AWS
 
----
+* Local Folder → S3 → Lambda → RDS → SNS
+* Automated event-driven file processing pipeline.
 
-### 🔹 L2 – Smart Cloud Pipeline
+#### CI/CD Pipeline with Jenkins
 
-👉 S3 → Lambda → RDS → SNS automation
-🔗 https://github.com/jagajit23/l2-smart-cloud-pipeline
+* GitHub → Jenkins → Docker
+* Automated build and deployment workflow.
 
----
+### Certifications
 
-### 🔹 L1 – File Upload to S3
+* AWS Cloud Practitioner (if completed)
+* DevOps Training
 
-👉 Basic cloud storage automation
-🔗 https://github.com/jagajit23/efs-to-s3-sync-project
+### Connect With Me
 
----
-
-## 📫 Contact
-
-* 📧 [jagajit203@gmail.com](mailto:jagajit203@gmail.com)
+* GitHub: https://github.com/jagajit23
+* LinkedIn: Add your LinkedIn profile
